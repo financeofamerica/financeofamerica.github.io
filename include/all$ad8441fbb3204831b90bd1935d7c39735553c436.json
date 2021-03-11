@@ -4016,6 +4016,43 @@
                     "issues": "https://github.com/financeofamerica/mortgage-calculators/issues"
                 }
             },
+            "1.1.14": {
+                "name": "financeofamerica/mortgage-calculators",
+                "version": "1.1.14",
+                "version_normalized": "1.1.14.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:financeofamerica/mortgage-calculators.git",
+                    "reference": "b1269211cc2136a10fedd26843f8e3f468689f78"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://financeofamerica.github.io//dist/financeofamerica/mortgage-calculators/financeofamerica-mortgage-calculators-b1269211cc2136a10fedd26843f8e3f468689f78-zip-a52b62.tar",
+                    "reference": "b1269211cc2136a10fedd26843f8e3f468689f78",
+                    "shasum": "5b49e74c8361871abc037174d59a08f03b072a04"
+                },
+                "time": "2021-03-11T15:54:08+00:00",
+                "type": "wordpress-plugin",
+                "installation-source": "dist",
+                "license": [
+                    "GPL-3.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "FoA Marketing Technology Team"
+                    }
+                ],
+                "description": "Website Mortgage Calculators",
+                "homepage": "https://www.finanaceofamerica.com/tools/calculators/",
+                "keywords": [
+                    "plugin",
+                    "wordpress"
+                ],
+                "support": {
+                    "source": "https://github.com/financeofamerica/mortgage-calculators/tree/1.1.14",
+                    "issues": "https://github.com/financeofamerica/mortgage-calculators/issues"
+                }
+            },
             "dev-master": {
                 "name": "financeofamerica/mortgage-calculators",
                 "version": "dev-master",
@@ -4023,15 +4060,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:financeofamerica/mortgage-calculators.git",
-                    "reference": "c63a3e7124a2c0bf13a62f3f9ef0aac0ec8e9013"
+                    "reference": "b1269211cc2136a10fedd26843f8e3f468689f78"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/financeofamerica/mortgage-calculators/zipball/c63a3e7124a2c0bf13a62f3f9ef0aac0ec8e9013",
-                    "reference": "c63a3e7124a2c0bf13a62f3f9ef0aac0ec8e9013",
+                    "url": "https://api.github.com/repos/financeofamerica/mortgage-calculators/zipball/b1269211cc2136a10fedd26843f8e3f468689f78",
+                    "reference": "b1269211cc2136a10fedd26843f8e3f468689f78",
                     "shasum": ""
                 },
-                "time": "2021-02-26T14:41:05+00:00",
+                "time": "2021-03-11T15:54:08+00:00",
                 "type": "wordpress-plugin",
                 "license": [
                     "GPL-3.0+"
@@ -4048,7 +4085,7 @@
                     "wordpress"
                 ],
                 "support": {
-                    "source": "https://github.com/financeofamerica/mortgage-calculators/tree/1.0.13",
+                    "source": "https://github.com/financeofamerica/mortgage-calculators/tree/1.1.14",
                     "issues": "https://github.com/financeofamerica/mortgage-calculators/issues"
                 }
             }
