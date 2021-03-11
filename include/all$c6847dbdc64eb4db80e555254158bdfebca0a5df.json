@@ -3011,7 +3011,6 @@
                 },
                 "time": "2021-03-11T15:49:32+00:00",
                 "type": "wordpress-theme",
-                "installation-source": "dist",
                 "license": [
                     "GPL-2.0"
                 ],
