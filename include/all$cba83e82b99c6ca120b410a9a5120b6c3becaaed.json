@@ -4604,6 +4604,44 @@
                     "issues": "https://github.com/financeofamerica/tpo-info/issues"
                 }
             },
+            "0.1.3": {
+                "name": "financeofamerica/tpo-info",
+                "version": "0.1.3",
+                "version_normalized": "0.1.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:financeofamerica/tpo-info.git",
+                    "reference": "c7b044b031927c1285c3072c03c4b1959840559f"
+                },
+                "dist": {
+                    "type": "tar",
+                    "url": "https://financeofamerica.github.io//dist/financeofamerica/tpo-info/financeofamerica-tpo-info-c7b044b031927c1285c3072c03c4b1959840559f-zip-304dc2.tar",
+                    "reference": "c7b044b031927c1285c3072c03c4b1959840559f",
+                    "shasum": "126605ce723f5b4504c314325ddcf76f01387510"
+                },
+                "require": {
+                    "a5hleyrich/wp-background-processing": "~1.0.1",
+                    "guzzlehttp/guzzle": "~6.0",
+                    "php": ">=7.0"
+                },
+                "time": "2021-03-15T16:35:31+00:00",
+                "type": "wordpress-plugin",
+                "installation-source": "dist",
+                "license": [
+                    "GPL-3.0+"
+                ],
+                "authors": [
+                    {
+                        "name": "Nikun Patel",
+                        "email": "nipatel@financeofamerica.com"
+                    }
+                ],
+                "description": "Interface with TwoX Rest API Finance of America Mortgage TPO",
+                "support": {
+                    "source": "https://github.com/financeofamerica/tpo-info/tree/0.1.3",
+                    "issues": "https://github.com/financeofamerica/tpo-info/issues"
+                }
+            },
             "dev-master": {
                 "name": "financeofamerica/tpo-info",
                 "version": "dev-master",
@@ -4611,12 +4649,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:financeofamerica/tpo-info.git",
-                    "reference": "6b156d5573fd9d6a3bff9e7802d1781c00ac76a7"
+                    "reference": "c7b044b031927c1285c3072c03c4b1959840559f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/financeofamerica/tpo-info/zipball/6b156d5573fd9d6a3bff9e7802d1781c00ac76a7",
-                    "reference": "6b156d5573fd9d6a3bff9e7802d1781c00ac76a7",
+                    "url": "https://api.github.com/repos/financeofamerica/tpo-info/zipball/c7b044b031927c1285c3072c03c4b1959840559f",
+                    "reference": "c7b044b031927c1285c3072c03c4b1959840559f",
                     "shasum": ""
                 },
                 "require": {
@@ -4624,7 +4662,7 @@
                     "guzzlehttp/guzzle": "~6.0",
                     "php": ">=7.0"
                 },
-                "time": "2021-02-17T19:06:57+00:00",
+                "time": "2021-03-15T16:35:31+00:00",
                 "type": "wordpress-plugin",
                 "license": [
                     "GPL-3.0+"
@@ -4637,7 +4675,7 @@
                 ],
                 "description": "Interface with TwoX Rest API Finance of America Mortgage TPO",
                 "support": {
-                    "source": "https://github.com/financeofamerica/tpo-info/tree/0.1.2",
+                    "source": "https://github.com/financeofamerica/tpo-info/tree/0.1.3",
                     "issues": "https://github.com/financeofamerica/tpo-info/issues"
                 }
             }
